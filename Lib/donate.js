@@ -11,11 +11,10 @@ Mau donasi? ✨
 ♻ Silahkan donasi dibawah ini :
    
 
-🖼️ *DANA*: 085642337380
+🖼️ *DANA*: 085852353712
 
-🖼️ *PULSA*: 081215199447
+🖼️ *PULSA*: 085852353712
 
-🖼️ *SAWERIA*: https://saweria.co/Caliph123
 
 
 🔰 Official Grub [1] : ${grupch1}
