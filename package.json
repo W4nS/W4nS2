@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/W4nS/W4nS"
+    "url": "git+https://github.com/W4nS/W4nS2"
   },
   "keywords": [
     "k"
@@ -37,7 +37,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/W4nS/W4nS/issues"
+    "url": "https://github.com/W4nS/W4nS2/issues"
   },
-  "homepage": "https://github.com/W4nS/W4nS#readme"
+  "homepage": "https://github.com/W4nS/W4nS2#readme"
 }
