@@ -83,7 +83,7 @@ Special thanks for :
 
 ➡️ Official Group [2] : ${grupch2}
 
-*BOT BY CALIPH*
+*BOT BY W4nS*
 
              *W4nS BOT*
       ▌│█║▌║▌║║▌║▌║█│▌
