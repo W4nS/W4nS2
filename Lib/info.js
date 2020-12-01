@@ -8,7 +8,7 @@ Hi, ${id.split("@s.whatsapp.net")[0]} 👋️
 
 ℹ️ INFO BOT :
    
-➡️ *GITHUB*: https://github.com/W4nS/W4nS
+➡️ *GITHUB*: https://github.com/W4nS/W4nS2
 ➡️ *AUTHOR*: W4nS
 ➡️ *DESIGNER*: W4nS
 ➡️ *YOUTUBE*: Norman Wawan
