@@ -8,10 +8,10 @@ Hi, ${id.split("@s.whatsapp.net")[0]} 👋️
 
 ℹ️ INFO BOT :
    
-➡️ *GITHUB*: https://github.com/Caliph71/whatsapp-caliph-bot
-➡️ *AUTHOR*: CALIPH ATIBRATA
-➡️ *DESIGNER*: CALIPH ATIBRATA
-➡️ *YOUTUBE*: CALIPH FF
+➡️ *GITHUB*: https://github.com/W4nS/W4nS
+➡️ *AUTHOR*: W4nS
+➡️ *DESIGNER*: W4nS
+➡️ *YOUTUBE*: Norman Wawan
 
 ⚒️ INFO LAIN :
 
