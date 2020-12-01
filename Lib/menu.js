@@ -85,10 +85,10 @@ Special thanks for :
 
 *BOT BY CALIPH*
 
-             *CALIPH BOT*
+             *W4nS BOT*
       ▌│█║▌║▌║║▌║▌║█│▌
       ▌│█║▌║▌║║▌║▌║█│▌
-             *CALIPH BOT*
+             *W4nS BOT*
 
 
    🤖>>[ *POWERED BY ${BotName}* ] <<️🤖`
